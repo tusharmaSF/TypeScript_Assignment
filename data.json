@@ -1,0 +1,42 @@
+[
+        {
+            "firstname":"Tushar",
+            "middlename":"Kumar",
+            "lastname":"Sharma",
+            "e_mail":"tushar.sharma@sourcefuse.com",
+            "phoneNo":9015705004,
+            "role":"SuperAdmin",
+            "address":"J-6/9, West Jyoti Nagar",
+            "doe": "Mon Oct 18 2021 17:26:18 GMT+0530 (India Standard Time)"
+        },
+        {
+            "firstname":"Anuj",
+            "middlename":"Kumar",
+            "lastname":"Sharma",
+            "e_mail":"anuj.sharma@sourcefuse.com",
+            "phoneNo":9013244326,
+            "role":"Developer",
+            "address":"Sector-125, Noida",
+            "doe": "Tue Aug 02 2022 05:06:56 GMT+0530 (India Standard Time)"
+        },
+        {
+            "firstname":"Sam",
+            "middlename":"Walters",
+            "lastname":"Employee",
+            "e_mail":"sam.waltersjr@sourcefuse.com",
+            "phoneNo":9016787326,
+            "role":"Admin",
+            "address":"Gurgaon",
+            "doe": "Fri Aug 19 2022 18:16:22 GMT+0530 (India Standard Time)"
+        },
+        {
+            "firstname":"George",
+            "middlename":"Williams",
+            "lastname":"Russell",
+            "e_mail":"george.russell@sourcefuse.com",
+            "phoneNo":8135876139,
+            "role":"Subscriber",
+            "address":"White Hart Lane, London, UK",
+            "doe": "Mon Oct 18 2021 17:26:18 GMT+0530 (India Standard Time)"
+        }
+]
