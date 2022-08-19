@@ -20,7 +20,7 @@ enum roles {
 }
 
 class person {
-  @getDate
+  
   public user_date: string;
 
   constructor(
