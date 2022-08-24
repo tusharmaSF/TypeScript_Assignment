@@ -8,7 +8,6 @@ function getDate(target: Object, propertyKey: string) {
     console.log(`new ${propertyKey} value: ${val}`);
     value = val;
   };
-  //   Object.defineProperties(target, propertyKey, { set, get });
 }
 
 enum roles {
