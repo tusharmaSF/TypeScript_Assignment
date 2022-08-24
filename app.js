@@ -14,7 +14,6 @@ function getDate(target, propertyKey) {
         console.log("new ".concat(propertyKey, " value: ").concat(val));
         value = val;
     };
-    //   Object.defineProperties(target, propertyKey, { set, get });
 }
 var roles;
 (function (roles) {
